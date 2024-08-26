@@ -59,7 +59,7 @@ Una vez que tenemos nuestras tablas y relaciones definidas, podemos empezar a gu
 - **U**pdate: Actualizar o modificar datos existentes en una tabla.
 - **D**elete: Eliminar datos de una tabla.
 
-### Ejemplo de Consultas SQL
+### Ejemplo de Consultas SQL LENGUAJE DE CONSULTAS ESTRUCTURADO
 
 - **Crear un nuevo cliente:**
   ```sql
